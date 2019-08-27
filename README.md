@@ -1,2 +1,3 @@
-# THC
-Taller de herramientas computacionales
+# thc
+Materia Taller de Herramientas Computacionales
+317157974
