@@ -1,0 +1,1 @@
+Se agrego un directorio LaTeX y un archivo README.md

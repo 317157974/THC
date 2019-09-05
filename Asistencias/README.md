@@ -1,0 +1,1 @@
+Se agrego un directorio de asistencias y un archivo README.md
