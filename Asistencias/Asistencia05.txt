@@ -1,0 +1,10 @@
+El proposito de la clase fue ver la utilidad de subir los trabajos a la nube una vez terminado de trabajar y asi no peder
+el progreso y ver los avances asi como el historial de trabajo en git. Asi simulamos un servidor local y uno remoto para 
+que ahí mismo se pudiera ver los conflictos que pueden surgir al querer trabajar sin haber hecho un pull. Para poder 
+visualizar claramente tuvimos que hacer un cambio un los dos lados para ver si al hacer el push respectivo al querer
+trabajar de nuevo marque un error de actualizacion por asi decirlo. 
+En esta clase pudimos localizar el problema comun que se pudiera dar si no hacemos los pasos adecuandos que se deben hacer 
+simepre que se trabaje sobre nuestra cuenta, cuando quisimos trabajar en la remota nos marcaba un tipo error donde git 
+quiere resolver el problema por su cuenta y lo hace solo te informa de ello y quiere que lo edites para que estes 
+consciente de los cambios que se estan realizando. Siempre git nos informa si ve algo raro o fuera de lugar antes de que
+queramos hacer alguna modificacion esto para prevenir de informacion importante perdida o casos similares. 

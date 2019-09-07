@@ -1,0 +1,8 @@
+En la clase de hoy empezamos a ver algunos conceptos basicos que utilizaremos y es bueno comprenderlos para saber lo 
+que estamos haciendo y en que contexto se esta trabajando. Por ejemplo el Kernel es como el nucleo del sistema operativo
+que es el que se encarga de ejecutar las ordenes que le manden. Asi empezamos a trabajar en la terminal de las computadoras
+del salon y a aprendernos algunos tomandos basicos en la Konsole que tiene bash que es un interprete de comandos. 
+En la segunda clase aprendimos un poco mejor lo que significa ser un servidor y un cliente, además de la relacion que hay
+entre los dos ya que un cliente va a estar conectado a un servidor que pone a disposicion recursos que el cliente necesita.
+La mayoría de los servicios de Internet son tipo de cliente-servidor ya que por ejemplo si visitas el sitio web de Facebook,
+los usos que componen Facebook serian considerados el servidor y la computadora y el navegador serian el cliente. 

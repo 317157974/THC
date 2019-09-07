@@ -1,0 +1,7 @@
+En esta clase, como habiamos instalado Fedora en una maquina virtual de las computadoras del salon empezamos trabajando 
+sobre ella clonando y configurando con git config para asi poder trabajar sobre nuestra cuenta de Github y asi
+ver los distintos comandos que nos serviran para poder hacer cambios adecuadamente. 
+En la segunda clase vimos un ejemplo de como empezar a editar archivos y agregar directorios para que asi en nuestra casa
+de tarea se nos quedara hacer los directorios de Linux LaTeX y Python en el repositorio de thc con sus respectivos README
+además de ver la importancia que se tiene al trabajar en equipo y resolver problemas con este medio. Asi se quedo un 
+investigar un problema de tarea para resolverlo que fuera de fisica o de ese tipo.  

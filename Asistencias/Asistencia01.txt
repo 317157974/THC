@@ -1,0 +1,8 @@
+En la clase de hoy el maestro nos dio la bienvenida a la facultad y nos dio una breve introducción de lo que se va a tratar
+la materia. Nos explicó un poco de lo que vamos a hacer a lo largo del semestre y las herramientas que vamos a ocupar para
+llevar a cabo algunas tareas y trabajos.
+En la segunda clase de la semana vimos más a fondo que onda con Linux, que es el sistema operativo que vamos utilizar a lo
+largo del semestre y que beneficios tiene usarlo. Vimos que Windows es uno de los sistemas operativos más comerciales pero
+no significaba que era mejor que Linux. Tambien platicamos un poco de Git que es basicamente un software de control y es 
+llamado asi ya que es un sistema de control de versiones de código.
+El que estaremos utilizando nostros es Github donde estaremos subiendo trabajos y proyectos con una cuenta personal.

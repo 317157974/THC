@@ -1,0 +1,9 @@
+En esta clase viendo un poco más de Github y nuestra cuenta vimos las distintas funciones y cosas que se pueden hacer en
+el. Asi creamos un repositorio llamado thc donde dentro de el estaremos subiendo los trabajos, tareas y asistencias en 
+distintos directorios para tener una mejor organizacion.
+En la segunda clase trajimos nuestras laptops para empezar con la instalacion de Fedora Python Classroom que es una 
+distribucion de Linux y configuramos nuestras laptops para tener el espacio y lo necesario para que trabaje como debe. 
+Una cosa que nos recalco el maestro es que todas las computadoras pueden tener un caso diferente para la instalación pero 
+que en realidad no corre ningun riezgo la computadora. Asi con el Fedora instalado podemos trabajar en nuestra casa y con
+los comandos que hemos aprendido podemos subir a la nube y bajarlo en cualquier otro lugar remoto en el que estemos 
+trabajando como la escuela o un café internet, etc. 
