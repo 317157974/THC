@@ -1,0 +1,25 @@
+GLOSARIO
+Software: al soporte lógico de un sistema informático, que comprende el conjunto de los componentes lógicos 
+necesarios que hacen posible la realización de tareas específicas, en contraposición a los componentes físicos que son 
+llamados hardware.
+LinuX: un sistema operativo
+Fedora: una distribucion de Linux
+Python: un lenguaje de programación
+LaTeX: un sistema de composicion de textos
+Github: es un sistema de gestión de proyectos y control de versiones de código.
+Kernel: el nucleo del sistema operativo que se encarga de ejecutar las acciones que le ordenen.
+Shell: un interprete de comandos.
+Bash/dash: un tipo de shell que es de Linux.
+Servidor: tipo de software que realiza tareas en nombre de los usuarios.
+Cliente: es el que hace peticiones de servicios al servidor.
+Repositorio:es un sitio centralizado donde se almacena y mantiene información digital, 
+habitualmente bases de datos o carpetas.
+Directorio: contenedor virtual en el que se almacenan una agrupación de archivos informáticos. 
+Terminal: es un dispositivo electrónico o electromecánico que se utiliza para interactuar con una computadora.
+Comando: es una instrucción que el usuario proporciona a un sistema informático, desde la línea de órdenes 
+(como una shell) o desde una llamada de programación.
+Maquina virtual: es un software que simula un sistema de computación y puede ejecutar programas como si fuese una 
+computadora real. 
+
+
+ 

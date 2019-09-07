@@ -1,0 +1,19 @@
+PALABRAS MÁS UTILIZADAS EN APUNTES
+Git: 12
+Linux: 8
+Fedora:5
+LaTeX:3
+Shell:3
+Bash:2
+Dash:1
+Terminal:2
+Comando:4
+Servidor:2
+Cliente:1
+Software:3
+Pull:3
+Directorio:2
+Repositorio:3
+Push:3
+Archivo: 4
+*Tengo muchos comandos escritos como cd, ls, tmp, pwd, mkdir, nano, etc. pero creo son más claves las palabras. 

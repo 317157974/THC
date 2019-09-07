@@ -1,0 +1,10 @@
+PROBLEMA DE FISICA: TRABAJO Y ENERGIA
+
+Una fuerza F=3x2+2x-5 N (la posición x en m) se aplica a un cuerpo de 10 kg de masa.
+
+Calcular el trabajo realizado por la fuerza entre x=2 y x=5m.
+Sabiendo que la velocidad del bloque en el punto x=2 m es de 5 m/s, calcular la velocidad del bloque en el punto x=5 m.
+
+  Solución
+
+? x 0 x F·dx = 1 2 m v 2 - 1 2 m v 0 2 ? 2 5 (3 x 2 +2x-5)dx= 1 2 10 v 2 - 1 2 10· 5 2   v=7.04?m/s 
