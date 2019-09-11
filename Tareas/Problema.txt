@@ -1,0 +1,12 @@
+PROBLEMA
+
+Una bomba sube 1 m3 de agua a una altura de 30 m en 15 minutos.
+¿Cuál es el trabajo realizado por la bomba?
+Datos: Peso específico del agua: 9800 N/m^3
+
+Solución:
+- Planteamos la fórmula de trabajo y reemplazamos por los valores del ejercicio:
+- Formula de trabajo: W = |F|*|d|*Cos(ángulo)
+- Sustituimos: W = 9800N*30m*Cos(0°) = 294000J 
+ 
+ 
