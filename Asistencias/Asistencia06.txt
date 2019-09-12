@@ -1,0 +1,19 @@
+El dia de hoy empezamos a trabajar con IDLE3 (Integrated Development Environment), que es un entorno de desarollo integrado
+para Python. Este programa puede ser utilizado para resolver problemas de muchos tipos y vimos que el concepto de programa 
+esta relacionado a un conjunto de instrucciones que se pueden manejar en un archivo en un lenguaje dado. Observamos como 
+trabaja el IDLE y algunos comandos y errores que se pueden dar como los errores de sintaxis o los errores lógicos. 
+Resolvimos un problema dado por el maestro sobre el tiempo en que cae una pelota, vimos como resolverlo mediante IDLE y 
+las diferencias entre lo que puede interpretar el programa por una operacion matematica como la multiplicacion y los que 
+interpretamos nosotros sobre ella. Nosotros la podemos interpretar de muchas formas pero el programa no. Debido a ello se 
+le debe especificar exactamente lo que queremos pero en su lenguje para que los pueda comprender. Tambien hablamos un poco 
+sobre la variable en este contexto y concluimos que es un espacio de memoria que se le asigna un valor especifico. Esto nos
+iba a ayudar a acortar problemas cuando se utiliza un mismo valor en distintas ocasiones se le asigna una letra para
+acortar las operaciones.  
+
+En la segunda clase de la semana seguimos trabajando con IDLE y vimos las distintas formas de resolver el mismo problema 
+de la pelota. Así concluimos que hay muchas formas de poder resolver problemas y que podemos llegar al mismo resultado pero
+siempre hay una forma más efectiva y rapida de hacerlo. 
+Añadiendo algunos más conceptos, la definicion que dio el prefesor sobre cadena es: conjunto de caracteres delomitados por 
+comillas que abren y cierran. Estas cadenas que hicimos en IDLE tuvieron la funcion de un comentario porque no le ordenamos
+que ejecutara nada solo reproducirlo. Entonces todo lo que esta entre comillas es una cadena.
+Tambien definio un programa compilado como un programa que hace una produccion de codigo fuente a codigo binario.  
