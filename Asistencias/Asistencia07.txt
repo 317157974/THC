@@ -1,0 +1,13 @@
+En esta semana seguimos trabajando con el shell de python y aprendiendo varios comandos que nos van a ayudar para resolver
+distintos problemas de matematicas por lo mientras y tal vez despues sepamos resolver problemas de otrasareas o que 
+involucren distintas cosas que igual se puedan resolver con lo que estamos viendo.
+En la primera clase de la semana, las dos horas estuvimos trabajando con un problema de obtener las coordenadas de ciertas
+figuras geometricas solo con algunas caracteristicas especificas que cumplen las figuras. Entonces utilizando todo lo que 
+hemos aprendidio hasta el momento con variables, cadenas, etc., tratar de hacer el codigo adecuado para mostrar las 
+coordenadas. 
+En la segunda clase vimos como resolver el problema anterior y otro problema un poco diferente donde las figuras estan 
+inscritas dentro de un circulo. Viendo ese problema surgieron nuevos comandos y conceptos como modulo y funcion, por 
+ejemplo de tantas tareas que debe realizar un programa, un modulo puede realizar una o varias tareas dichas. Asi un 
+modulo contiene objetos y metodos relacionados entre si. Supongamos que S es un modulo entonces, S= math.sqrt, donde <math> 
+es el objeto y <sqrt> es el metodo. Por otro lado, una funcion no requiere de un objeto pero si requiere de informacion
+para poder ejecutar lo que se le pide. Así importamos algunos modulos para poder realizar el problema. 
