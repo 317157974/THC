@@ -1,0 +1,17 @@
+AUTÓMATA| Un autómata es un modelo matemático para una máquina de estado finito, en el que dada una entrada de símbolos, “salta” mediante una serie de estados de acuerdo a una función de transición (que puede ser expresada como una tabla).| https://codingornot.com/que-es-un-automata
+
+SISTEMA DINÁMICO| Un sistema dinámico, es una familia infinita de funciones de un espacio (métrico) en sí mismo, cerrada bajo composiciones, siempre que éstas tengan sentido.| https://www.revistaciencias.unam.mx/pt/186-revistas/revista-ciencias-34/1754-una-introducci%C3%B3n-a-los-sistemas-din%C3%A1micos.html
+
+VARIABLE BOOLEANA| Tipo de variable que solo admite dos tipos de valores, verdadero o falso.| https://www.aprenderaprogramar.com/tipos-de-variables-concepto-de-variables-booleanas
+
+MÓDULO| Un módulo es un software que agrupa un conjunto de subprogramas y estructuras de datos.| http://www.alegsa.com.ar/Dic/modulo.php
+
+FRATAL| Un fractal es una estructura cuya característica común es que su entidad esta construida por la repetición o iteración de una pauta o un proceso dado haciendo esto que, independientemente de cómo la observemos o de que parte del conjunto tomemos, exista una autosemejanza o similitud de sus aspectos entre las mismas.| http://www.infinitefractal.com/movabletype/blogs/my_blog/fractal-definicion.html
+
+ASINTÓTICO| Dicho de una curva: Que se acerca de continuo a una recta o a otra curva sin llegar nunca a encontrarla. 
+
+PERIÓDICO| Hace mención de algo que se repite con una cierta regularidad, o sea un período de tiempo determinado.| https://www.definicion.co/periodico/
+
+APERIÓDICO| Que no se repite periódicamante.| Deduccion mia a partir de la definicion anterior. 
+
+CORRELACIÓN| La correlación alude a la proporcionalidad y la relación lineal que existe entre distintas variables.| https://definicion.de/correlacion/
